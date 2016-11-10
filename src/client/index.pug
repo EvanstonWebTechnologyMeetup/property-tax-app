@@ -1,0 +1,36 @@
+doctype html
+html(lang="en")
+  head
+    meta(charset="utf-8")
+    title(data-mar-title) Property Taxes
+    link(rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons")
+    link(rel="stylesheet" href="https://code.getmdl.io/1.2.1/material.indigo-pink.min.css")
+  body.mdl-layout.mdl-js-layout.mdl-layout--fixed-header
+    header.mdl-layout__header
+      .mdl-layout__header-row
+        span.mdl-layout-title Evanston Property Taxes
+        .mdl-layout-spacer
+    main.mdl-layout__content.wrapper
+      .page-content
+        .mdl-grid
+          .mdl-card.mdl-shadow--2dp.mdl-cell.mdl-cell--4-col
+            .mdl-card__title
+              h2.mdl-card__title-text Property Details
+            .mdl-card__supporting-text
+              p
+                label Address:
+                span.address
+              p
+                label Assessed Value:
+                span.assessed-property-value
+              p
+                label Estimated Value:
+                span.estimated-property-value
+              p
+                label Tax Rate:
+                span.tax-rate
+          .mdl-card.mdl-shadow--2dp.mdl-cell.mdl-cell--8-col
+            #map
+    script(src="https://code.jquery.com/jquery-3.1.0.min.js")
+    script(src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCawuVhO_EhWZIkjB30Ku3vAzZT0zoU4Bg&libraries=places")
+    script(src="https://code.getmdl.io/1.2.1/material.min.js")

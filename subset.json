@@ -1,0 +1,65 @@
+[{
+  "parcel": "10243160130000",
+  "address": "1914 KEENEY ST",
+  "addressFormatted": "1914 Keeney St, Evanston, IL 60202, USA",
+  "location": {
+    "lat": 42.028151,
+    "lng": -87.700223
+  },
+  "owner": "HARVEY D SAVER",
+  "township": "EVANSTON",
+  "taxRate": "9.883",
+  "taxCode": "17007",
+  "estimatedPropertyValue": "$300,850",
+  "assessedPropertyValue": "30,085",
+  "lotSize": "3,750",
+  "propertyClass": "2-07"
+}, {
+  "parcel": "10243110400000",
+  "address": "2105 SEWARD ST",
+  "addressFormatted": "2105 Seward St, Evanston, IL 60202, USA",
+  "location": {
+    "lat": 42.02952500000001,
+    "lng": -87.70275500000002
+  },
+  "owner": "ALFRED E FUJII",
+  "township": "EVANSTON",
+  "taxRate": "9.883",
+  "taxCode": "17007",
+  "estimatedPropertyValue": "$240,220",
+  "assessedPropertyValue": "24,022",
+  "lotSize": "5,535",
+  "propertyClass": "2-03"
+}, {
+  "parcel": "10243170430000",
+  "address": "2130 WARREN ST",
+  "addressFormatted": "2130 Warren St, Evanston, IL 60202, USA",
+  "location": {
+    "lat": 42.027169,
+    "lng": -87.7039269
+  },
+  "owner": "SWANSON & VARNER",
+  "township": "EVANSTON",
+  "taxRate": "9.883",
+  "taxCode": "17007",
+  "estimatedPropertyValue": "$196,890",
+  "assessedPropertyValue": "19,689",
+  "lotSize": "4,925",
+  "propertyClass": "2-02"
+}, {
+  "parcel": "10243090580000",
+  "address": "704 DODGE AVE",
+  "addressFormatted": "704 Dodge Ave, Evanston, IL 60202, USA",
+  "location": {
+    "lat": 42.0304727,
+    "lng": -87.69988369999999
+  },
+  "owner": "JULIANE M BYLICA",
+  "township": "EVANSTON",
+  "taxRate": "9.883",
+  "taxCode": "17007",
+  "estimatedPropertyValue": "$148,900",
+  "assessedPropertyValue": "14,890",
+  "lotSize": "1,919",
+  "propertyClass": "2-95"
+}]
